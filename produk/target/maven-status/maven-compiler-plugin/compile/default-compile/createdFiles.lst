@@ -1,0 +1,5 @@
+com\andre\produk\ProdukApplication.class
+com\andre\produk\entity\Produk.class
+com\andre\produk\service\ProdukService.class
+com\andre\produk\controller\ProdukController.class
+com\andre\produk\repository\ProdukRepository.class
